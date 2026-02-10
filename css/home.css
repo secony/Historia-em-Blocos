@@ -6,14 +6,15 @@
 body {
     margin: 0;
     min-height: 100vh;
-    background: radial-gradient(circle, #0f172a  , #1e3a5f);
+    background: radial-gradient(circle, #0f172a, #1e3a5f);
     color: #e5e7eb;
     background-attachment: fixed;
 }
 
 .card {
     width: 300px;
-    background:#23272f;;
+    background: #23272f;
+    ;
     backdrop-filter: blur(6px);
     border-radius: 20px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
@@ -21,7 +22,7 @@ body {
     text-align: left;
     padding-bottom: 15px;
     transition: transform 0.3s;
-    
+
 }
 
 .card:hover {
@@ -81,7 +82,7 @@ h2 {
 h3 {
     font-size: 35px;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     color: #b9bec0;
     margin-bottom: 20px;
     margin-top: 140px;
@@ -102,3 +103,4 @@ h3 {
     gap: 100px;
     padding: 40px 80px;
 }
+
