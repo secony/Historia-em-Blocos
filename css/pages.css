@@ -47,12 +47,13 @@ h3 {
 
 .quadro {
     width: 1000px;
-    height: 6000px;
+    height: 6090px;
     background: rgb(215, 223, 243);
     margin-top: 150px;
     border-radius: 60px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
     padding: 20px;
+    margin-bottom: 70px;
 }
 
 h2 {
