@@ -27,11 +27,12 @@ h1 {
 p {
     font-size: 25px;
     font-family: "Montserrat", sans-serif;
-    font-weight: 300;
+    font-weight: 350;
     color: #070707;
     margin-bottom: 0px;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
     margin: 20px ;
+    
 }
 
 h3 {
